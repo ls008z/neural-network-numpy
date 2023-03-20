@@ -9,3 +9,4 @@ Very good excersie for
 - see the power of objective oriented programming
 
 The algorithm is applied to MNIST data, error rate <4%.
+The data can be downloaded [here](https://pjreddie.com/projects/mnist-in-csv/).
